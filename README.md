@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SyedFaisal2001
+- 👋 Hi, I’m SyedFaisal
   
 - 👀🚀 About Me:
      I'm an enthusiastic newcomer to the world of software development.
